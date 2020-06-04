@@ -6,4 +6,4 @@
 print(2 ** 65536)
 
 # JS 
-# Math.pow(2, 65536)
+# console.log(Math.pow(2, 65536))
