@@ -60,4 +60,5 @@ print(waypoints)
 
 # Write a loop that prints out all the field values for all the waypoints
 # YOUR CODE HERE
-print(waypoints)
+for dict in waypoints: 
+    print(dict)
